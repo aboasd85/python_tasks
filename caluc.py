@@ -27,6 +27,7 @@ while (True) :
 #  break;
   flg=input('do you want anthor opreation input : y/n ')
   if flg=='n' :
+    input(' the program is finish ')
      break;
 
             
